@@ -9,3 +9,4 @@ Technologies used:
 - TailwindCSS 
 - @formkit/auto-animate
   
+[Site Deployed](https://invitation-list.vercel.app/)
